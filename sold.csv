@@ -1,4 +1,4 @@
-﻿ID,Product,Sell_Date,Amount,Sell_Price,Bought_ID
+ID,Product,Sell_Date,Amount,Sell_Price,Bought_ID
 1,banana,2023-06-03,5,2.1,2
 2,apple,2023-05-28,5,1.95,1
 3,apple,2023-05-28,5,1.85,1
